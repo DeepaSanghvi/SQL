@@ -1,5 +1,5 @@
 <b> SQL Assignment 
 <br>
--> Use of Create/Delete/Update/Insert
--> Use joins
--> Use of Primary and foreign key
+-> Use of Create/Delete/Update/Insert<br>
+-> Use joins<br>
+-> Use of Primary and foreign key<br>
